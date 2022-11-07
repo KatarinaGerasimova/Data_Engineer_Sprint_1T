@@ -1,8 +1,0 @@
-CREATE TABLE Departments
-(
-	DepId SERIAL PRIMARY KEY,
-	DepName CHARACTER VARYING(50),
-	ManagerName CHARACTER VARYING(50),
-	NumberOfEmployees INTEGER
-	
-);
